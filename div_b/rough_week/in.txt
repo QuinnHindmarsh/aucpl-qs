@@ -1,0 +1,19 @@
+3
+milk beer vodka
+4
+the_lucky_capybara water
+the_lucky_capybara beer
+the_ritisha_emporium milk
+the_lucky_capybara vodka
+2
+water milk
+4
+the_tavern ale
+the_tavern cider
+soda_shop juice
+soda_shop soda
+2
+water milk
+2
+ale_house ale
+ale_house cider

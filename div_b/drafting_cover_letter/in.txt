@@ -1,0 +1,14 @@
+3
+ADD DearAUCPL
+DEL 5 
+ADD ACPC
+9
+ADD WillYou
+ADD HireMeeeee
+DEL 4
+LEFT 50
+ADD ACPCInc
+RIGHT 7
+ADD Please
+RIGHT 50
+ADD Thanks
